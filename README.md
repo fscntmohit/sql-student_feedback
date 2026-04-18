@@ -7,8 +7,6 @@
 The Feedback Management System is a mini SQL project designed to collect and manage user feedback in a structured way.  
 It solves a common problem in academic and training environments: storing feedback safely, linking each response to a user, and generating basic insights like average rating and top-rated feedback.
 
-This project is beginner-to-intermediate level, making it suitable for campus placement submissions and interview discussions.
-
 ## Database Design Explanation
 The database follows **relational design** and basic **normalization principles**:
 
@@ -87,11 +85,3 @@ This project uses mostly standard SQL. To run directly in PostgreSQL:
    - `\i schema.sql`
    - `\i queries.sql`
 
-## Why this project is good for interviews
-- Demonstrates core SQL fundamentals
-- Shows understanding of relationships and constraints
-- Includes both CRUD and reporting queries
-- Easy to explain end-to-end in 2-4 minutes
-
----
-You can directly add this project to your resume/GitHub as a clean SQL mini project.
